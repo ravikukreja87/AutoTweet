@@ -1,0 +1,270 @@
+2023-03-14 14:10:49 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:10:49 INFO  StepDefinition:39 - Scenario : Validate Login to twitter web application
+2023-03-14 14:10:56 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:11:06 INFO  StepDefinition:55 - Navigated to Twitter Login Page
+2023-03-14 14:11:09 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:11:09 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:11:10 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:11:11 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:11:12 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:11:12 INFO  StepDefinition:62 - Entered Username and password
+2023-03-14 14:11:12 INFO  StepDefinition:68 - Navigating to Home Page after Login
+2023-03-14 14:11:18 INFO  StepDefinition:74 - On User's Home Page post Login
+2023-03-14 14:11:30 INFO  StepDefinition:49 - Scenario : Validate Login to twitter web application Completed
+2023-03-14 14:11:30 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:11:30 INFO  StepDefinition:39 - Scenario : Updates profile photo
+2023-03-14 14:11:33 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:11:44 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:11:45 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:11:45 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:11:46 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:11:47 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:11:56 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 14:11:57 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 14:12:02 INFO  SeleniumUtils:26 - Clicked on Apply Button
+2023-03-14 14:12:03 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 14:12:05 INFO  StepDefinition:49 - Scenario : Updates profile photo Completed
+2023-03-14 14:12:05 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:12:05 INFO  StepDefinition:39 - Scenario : Updates Bio data
+2023-03-14 14:12:07 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:12:15 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:12:15 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:12:16 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:12:16 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:12:18 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:12:25 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 14:12:27 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 14:12:30 INFO  SeleniumUtils:57 - Entered value on Bio Data field
+2023-03-14 14:12:30 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 14:12:42 INFO  StepDefinition:49 - Scenario : Updates Bio data Completed
+2023-03-14 14:12:42 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:12:42 INFO  StepDefinition:39 - Scenario : Updates Location data
+2023-03-14 14:12:44 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:12:52 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:12:52 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:12:53 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:12:53 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:12:54 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:13:00 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 14:13:01 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 14:13:02 INFO  SeleniumUtils:57 - Entered value on Location field
+2023-03-14 14:13:03 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 14:13:05 INFO  StepDefinition:49 - Scenario : Updates Location data Completed
+2023-03-14 14:13:05 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:13:05 INFO  StepDefinition:39 - Scenario : Updates Website data
+2023-03-14 14:13:07 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:13:16 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:13:16 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:13:16 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:13:16 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:13:17 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:13:25 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 14:13:27 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 14:13:33 INFO  SeleniumUtils:57 - Entered value on WebSite field
+2023-03-14 14:13:33 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 14:13:35 INFO  StepDefinition:49 - Scenario : Updates Website data Completed
+2023-03-14 14:13:35 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:13:35 INFO  StepDefinition:39 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 14:13:37 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:13:44 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:13:45 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:13:45 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:13:45 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:13:46 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:13:51 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 14:14:00 INFO  StepDefinition:49 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
+2023-03-14 14:14:00 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:14:00 INFO  StepDefinition:39 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 14:14:02 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:14:09 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:14:09 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:14:10 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:14:10 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:14:11 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:14:15 INFO  StepDefinition:74 - On User's Home Page post Login
+2023-03-14 14:14:19 INFO  SeleniumUtils:57 - Entered value on Search Text Box field
+2023-03-14 14:14:26 INFO  HomePage:87 - Total Tweets Available: 7
+2023-03-14 14:14:26 INFO  HomePage:73 - timeStamp of retrieved tweet : 1h
+2023-03-14 14:14:26 INFO  HomePage:79 - timeStamp of retrieved tweet : YSRTP chief YS Sharmila detained by police during a protest against Telangana's KCR government in Delhi. She has alleged irregularities in Kaleshwaram Lift Irrigation Project
+2023-03-14 14:14:26 INFO  HomePage:73 - timeStamp of retrieved tweet : 22h
+2023-03-14 14:14:26 INFO  HomePage:73 - timeStamp of retrieved tweet : 2h
+2023-03-14 14:14:26 INFO  HomePage:79 - timeStamp of retrieved tweet : Today, many criminal acts are being conducted using technology. Some political forces are using technology to spread rumours and disturb law and order for their own benefit: Tamil Nadu CM MK Stalin at an event in Chennai
+2023-03-14 14:14:27 INFO  HomePage:73 - timeStamp of retrieved tweet : 4m
+2023-03-14 14:14:27 INFO  HomePage:79 - timeStamp of retrieved tweet : #RahulGandhi's remarks hit #LokSabha proceedings for second consecutive day 
+
+"Rahul Gandhi maafi mango (Rahul Gandhi apologise)," BJP members shouted repeatedly from their seats. Some ministers, too, were on their feet.
+2023-03-14 14:14:27 INFO  HomePage:73 - timeStamp of retrieved tweet : 3m
+2023-03-14 14:14:27 INFO  HomePage:79 - timeStamp of retrieved tweet : #Ukraine accuses Russian snipers of abusing child, gang raping mother
+2023-03-14 14:14:27 INFO  HomePage:73 - timeStamp of retrieved tweet : 2h
+2023-03-14 14:14:27 INFO  HomePage:79 - timeStamp of retrieved tweet : CCTV footage shows migrant workers being attacked in #Coimbatore
+2023-03-14 14:14:27 INFO  HomePage:73 - timeStamp of retrieved tweet : 17m
+2023-03-14 14:14:27 INFO  HomePage:79 - timeStamp of retrieved tweet : Former Pakistan PM #ImranKhan to lead 'historic' power show at Minar-e-Pakistan on March 19
+2023-03-14 14:14:29 INFO  StepDefinition:49 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
+2023-03-14 14:14:29 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:14:29 INFO  StepDefinition:39 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 14:14:31 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:14:41 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:14:41 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:14:41 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:14:41 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:14:42 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:14:46 INFO  StepDefinition:74 - On User's Home Page post Login
+2023-03-14 14:14:48 INFO  SeleniumUtils:57 - Entered value on Search Text Box field
+2023-03-14 14:14:58 INFO  HomePage:87 - Total Tweets Available: 7
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 1h
+2023-03-14 14:14:58 INFO  HomePage:79 - timeStamp of retrieved tweet : YSRTP chief YS Sharmila detained by police during a protest against Telangana's KCR government in Delhi. She has alleged irregularities in Kaleshwaram Lift Irrigation Project
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 22h
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 2h
+2023-03-14 14:14:58 INFO  HomePage:79 - timeStamp of retrieved tweet : Today, many criminal acts are being conducted using technology. Some political forces are using technology to spread rumours and disturb law and order for their own benefit: Tamil Nadu CM MK Stalin at an event in Chennai
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 2h
+2023-03-14 14:14:58 INFO  HomePage:79 - timeStamp of retrieved tweet : CCTV footage shows migrant workers being attacked in #Coimbatore
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 3m
+2023-03-14 14:14:58 INFO  HomePage:79 - timeStamp of retrieved tweet : #Ukraine accuses Russian snipers of abusing child, gang raping mother
+2023-03-14 14:14:58 INFO  HomePage:73 - timeStamp of retrieved tweet : 5m
+2023-03-14 14:14:59 INFO  HomePage:79 - timeStamp of retrieved tweet : #RahulGandhi's remarks hit #LokSabha proceedings for second consecutive day 
+
+"Rahul Gandhi maafi mango (Rahul Gandhi apologise)," BJP members shouted repeatedly from their seats. Some ministers, too, were on their feet.
+2023-03-14 14:14:59 INFO  HomePage:73 - timeStamp of retrieved tweet : 1h
+2023-03-14 14:14:59 INFO  HomePage:79 - timeStamp of retrieved tweet : February Wholesale Inflation (WPI) falls to 3.85% as compared to 4.73% in January: Government of India
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: YSRTP chief YS Sharmila detained by police during a protest against Telangana's KCR government in Delhi. She has alleged irregularities in Kaleshwaram Lift Irrigation Project
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [YSRTP chief YS Sharmila detained by police during  ...1 of 4, a protest against Telangana's KCR government in De ...2 of 4, lhi. She has alleged irregularities in Kaleshwaram ...3 of 4,  Lift Irrigation Project ...4 of 4]
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: Today, many criminal acts are being conducted using technology. Some political forces are using technology to spread rumours and disturb law and order for their own benefit: Tamil Nadu CM MK Stalin at an event in Chennai
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [Today, many criminal acts are being conducted usin ...1 of 5, g technology. Some political forces are using tech ...2 of 5, nology to spread rumours and disturb law and order ...3 of 5,  for their own benefit: Tamil Nadu CM MK Stalin at ...4 of 5,  an event in Chennai ...5 of 5]
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: CCTV footage shows migrant workers being attacked in #Coimbatore
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [CCTV footage shows migrant workers being attacked  ...1 of 2, in #Coimbatore ...2 of 2]
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: #Ukraine accuses Russian snipers of abusing child, gang raping mother
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [#Ukraine accuses Russian snipers of abusing child, ...1 of 2,  gang raping mother ...2 of 2]
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: #RahulGandhi's remarks hit #LokSabha proceedings for second consecutive day 
+
+"Rahul Gandhi maafi mango (Rahul Gandhi apologise)," BJP members shouted repeatedly from their seats. Some ministers, too, were on their feet.
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [#RahulGandhi's remarks hit #LokSabha proceedings f ...1 of 5, or second consecutive day 
+
+"Rahul Gandhi maafi ma ...2 of 5, ngo (Rahul Gandhi apologise)," BJP members shouted ...3 of 5,  repeatedly from their seats. Some ministers, too, ...4 of 5,  were on their feet. ...5 of 5]
+2023-03-14 14:14:59 INFO  HomePage:104 - Splitting Tweet: February Wholesale Inflation (WPI) falls to 3.85% as compared to 4.73% in January: Government of India
+2023-03-14 14:14:59 INFO  HomePage:111 - Tweet after Split: [February Wholesale Inflation (WPI) falls to 3.85%  ...1 of 3, as compared to 4.73% in January: Government of Ind ...2 of 3, ia ...3 of 3]
+2023-03-14 14:15:02 INFO  StepDefinition:49 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
+2023-03-14 14:59:32 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:59:32 INFO  StepDefinition:33 - Scenario : Validate Login to twitter web application
+2023-03-14 14:59:37 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 14:59:43 INFO  StepDefinition:49 - Navigated to Twitter Login Page
+2023-03-14 14:59:45 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:59:45 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 14:59:46 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 14:59:46 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 14:59:47 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 14:59:47 INFO  StepDefinition:56 - Entered Username and password
+2023-03-14 14:59:47 INFO  StepDefinition:62 - Navigating to Home Page after Login
+2023-03-14 14:59:51 INFO  StepDefinition:68 - On User's Home Page post Login
+2023-03-14 14:59:51 INFO  StepDefinition:43 - Scenario : Validate Login to twitter web application Completed
+2023-03-14 14:59:51 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 14:59:52 INFO  StepDefinition:33 - Scenario : Updates profile photo
+2023-03-14 14:59:53 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:00:00 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:00 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:01 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:00:01 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:00:02 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:00:06 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 15:00:07 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 15:00:10 INFO  SeleniumUtils:26 - Clicked on Apply Button
+2023-03-14 15:00:10 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 15:00:11 INFO  StepDefinition:43 - Scenario : Updates profile photo Completed
+2023-03-14 15:00:11 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:00:11 INFO  StepDefinition:33 - Scenario : Updates Bio data
+2023-03-14 15:00:13 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:00:19 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:19 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:20 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:00:20 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:00:20 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:00:24 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 15:00:26 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 15:00:31 INFO  SeleniumUtils:57 - Entered value on Bio Data field
+2023-03-14 15:00:32 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 15:00:42 INFO  StepDefinition:43 - Scenario : Updates Bio data Completed
+2023-03-14 15:00:42 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:00:42 INFO  StepDefinition:33 - Scenario : Updates Location data
+2023-03-14 15:00:44 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:00:53 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:53 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:00:54 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:00:54 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:00:55 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:00:58 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 15:00:59 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 15:01:03 INFO  SeleniumUtils:57 - Entered value on Location field
+2023-03-14 15:01:03 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 15:01:04 INFO  StepDefinition:43 - Scenario : Updates Location data Completed
+2023-03-14 15:01:04 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:01:04 INFO  StepDefinition:33 - Scenario : Updates Website data
+2023-03-14 15:01:05 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:01:12 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:13 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:13 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:01:13 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:01:14 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:01:18 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 15:01:19 INFO  SeleniumUtils:26 - Clicked on Edit Profile Button
+2023-03-14 15:01:23 INFO  SeleniumUtils:57 - Entered value on WebSite field
+2023-03-14 15:01:24 INFO  SeleniumUtils:26 - Clicked on Save Button
+2023-03-14 15:01:25 INFO  StepDefinition:43 - Scenario : Updates Website data Completed
+2023-03-14 15:01:25 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:01:25 INFO  StepDefinition:33 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 15:01:26 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:01:33 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:33 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:34 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:01:34 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:01:35 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:01:40 INFO  SeleniumUtils:26 - Clicked on Profile Button
+2023-03-14 15:01:41 INFO  StepDefinition:43 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
+2023-03-14 15:01:41 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:01:41 INFO  StepDefinition:33 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 15:01:43 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:01:50 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:50 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:01:51 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:01:51 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:01:52 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:01:56 INFO  StepDefinition:68 - On User's Home Page post Login
+2023-03-14 15:01:57 INFO  SeleniumUtils:57 - Entered value on Search Text Box field
+2023-03-14 15:02:03 INFO  HomePage:74 - Total Tweets Available: 3
+2023-03-14 15:02:04 INFO  HomePage:60 - timeStamp of retrieved tweet : 55m
+2023-03-14 15:02:04 INFO  HomePage:66 - timeStamp of retrieved tweet : Total of 1,164 cases pertaining to the State of Jammu and Kashmir have been registered with the NHRC from 1st October, 2019 to December, 2022, as per the information provided by NHRC: MoS Home Nityanand Rai to Lok Sabha
+2023-03-14 15:02:04 INFO  HomePage:60 - timeStamp of retrieved tweet : 2h
+2023-03-14 15:02:04 INFO  HomePage:66 - timeStamp of retrieved tweet : February Wholesale Inflation (WPI) falls to 3.85% as compared to 4.73% in January: Government of India
+2023-03-14 15:02:04 INFO  HomePage:60 - timeStamp of retrieved tweet : 2h
+2023-03-14 15:02:04 INFO  HomePage:66 - timeStamp of retrieved tweet : Remove mosque on Allahabad HC premises in 3 months: Supreme Court
+
+The petitioners, Waqf Masjid HC and UP Sunni Central Waqf Board, had challenged a Nov 2017 Allahabad HC order, which had given them three months to move the mosque out of the premises.
+2023-03-14 15:02:05 INFO  StepDefinition:43 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
+2023-03-14 15:02:05 INFO  TestBase:59 - Properties loaded successfully
+2023-03-14 15:02:05 INFO  StepDefinition:33 - Scenario : Validates Bio, Location and Website data on Profile Page
+2023-03-14 15:02:06 INFO  TestBase:43 - Opened chrome browser
+2023-03-14 15:02:14 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:02:14 INFO  SeleniumUtils:26 - Clicked on Username
+2023-03-14 15:02:14 INFO  SeleniumUtils:33 - Entered value on Username field
+2023-03-14 15:02:15 INFO  SeleniumUtils:26 - Clicked on Next
+2023-03-14 15:02:15 INFO  SeleniumUtils:33 - Entered value on Password field
+2023-03-14 15:02:19 INFO  StepDefinition:68 - On User's Home Page post Login
+2023-03-14 15:02:20 INFO  SeleniumUtils:57 - Entered value on Search Text Box field
+2023-03-14 15:02:27 INFO  HomePage:74 - Total Tweets Available: 3
+2023-03-14 15:02:27 INFO  HomePage:60 - timeStamp of retrieved tweet : 55m
+2023-03-14 15:02:27 INFO  HomePage:66 - timeStamp of retrieved tweet : Total of 1,164 cases pertaining to the State of Jammu and Kashmir have been registered with the NHRC from 1st October, 2019 to December, 2022, as per the information provided by NHRC: MoS Home Nityanand Rai to Lok Sabha
+2023-03-14 15:02:27 INFO  HomePage:60 - timeStamp of retrieved tweet : 2h
+2023-03-14 15:02:27 INFO  HomePage:66 - timeStamp of retrieved tweet : Remove mosque on Allahabad HC premises in 3 months: Supreme Court
+
+The petitioners, Waqf Masjid HC and UP Sunni Central Waqf Board, had challenged a Nov 2017 Allahabad HC order, which had given them three months to move the mosque out of the premises.
+2023-03-14 15:02:27 INFO  HomePage:60 - timeStamp of retrieved tweet : 2h
+2023-03-14 15:02:27 INFO  HomePage:66 - timeStamp of retrieved tweet : February Wholesale Inflation (WPI) falls to 3.85% as compared to 4.73% in January: Government of India
+2023-03-14 15:02:27 INFO  HomePage:90 - Splitting Tweet: Total of 1,164 cases pertaining to the State of Jammu and Kashmir have been registered with the NHRC from 1st October, 2019 to December, 2022, as per the information provided by NHRC: MoS Home Nityanand Rai to Lok Sabha
+2023-03-14 15:02:27 INFO  HomePage:97 - Tweet after Split: [Total of 1,164 cases pertaining to the State of Ja ...1 of 5, mmu and Kashmir have been registered with the NHRC ...2 of 5,  from 1st October, 2019 to December, 2022, as per  ...3 of 5, the information provided by NHRC: MoS Home Nityana ...4 of 5, nd Rai to Lok Sabha ...5 of 5]
+2023-03-14 15:02:27 INFO  HomePage:90 - Splitting Tweet: Remove mosque on Allahabad HC premises in 3 months: Supreme Court
+
+The petitioners, Waqf Masjid HC and UP Sunni Central Waqf Board, had challenged a Nov 2017 Allahabad HC order, which had given them three months to move the mosque out of the premises.
+2023-03-14 15:02:27 INFO  HomePage:97 - Tweet after Split: [Remove mosque on Allahabad HC premises in 3 months ...1 of 6, : Supreme Court
+
+The petitioners, Waqf Masjid HC a ...2 of 6, nd UP Sunni Central Waqf Board, had challenged a N ...3 of 6, ov 2017 Allahabad HC order, which had given them t ...4 of 6, hree months to move the mosque out of the premises ...5 of 6, . ...6 of 6]
+2023-03-14 15:02:27 INFO  HomePage:90 - Splitting Tweet: February Wholesale Inflation (WPI) falls to 3.85% as compared to 4.73% in January: Government of India
+2023-03-14 15:02:27 INFO  HomePage:97 - Tweet after Split: [February Wholesale Inflation (WPI) falls to 3.85%  ...1 of 3, as compared to 4.73% in January: Government of Ind ...2 of 3, ia ...3 of 3]
+2023-03-14 15:02:28 INFO  StepDefinition:43 - Scenario : Validates Bio, Location and Website data on Profile Page Completed
