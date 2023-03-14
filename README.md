@@ -46,4 +46,15 @@ mvn clean install
 
 
 ## Reports
+---
 ![Features](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/001%20Features.png "Features")
+---
+![Tags](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/002%20Tags.png "Tags")
+---
+![Steps](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/003%20Steps.png "Steps")
+---
+![Failures](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/004%20Failures.png "Failures")
+---
+![FeatureDetail](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/005%20FeatureDetail.png "FeatureDetail")
+---
+![TagsReport](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/006%20TagReport.png "TagsReport")
