@@ -46,4 +46,4 @@ mvn clean install
 
 
 ## Reports
-![img](http://via.placeholder.com/200x150)
+![Features](https://github.com/ravikukreja87/AutoTweet/blob/main/Report%20Screen%20Shots/001%20Features.png "Features")
